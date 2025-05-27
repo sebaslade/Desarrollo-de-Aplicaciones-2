@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Empresa1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SaldoCliente">
+    <Key>
+      <PropertyRef Name="Cliente" />
+    </Key>
+    <Property Name="Cliente" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Saldo" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="FecUltTransaccion" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="Empresa1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SaldoCliente" EntityType="Self.SaldoCliente" />
+    <FunctionImport Name="usp_RestarSaldoCliente">
+      <Parameter Name="Codigo" Mode="In" Type="String" />
+      <Parameter Name="Monto" Mode="In" Type="Decimal" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>

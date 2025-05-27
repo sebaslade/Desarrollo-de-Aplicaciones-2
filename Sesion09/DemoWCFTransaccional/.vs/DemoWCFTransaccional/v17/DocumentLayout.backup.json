@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\wcfempresa2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|solutionrelative:wcfempresa2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\wcfempresa1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|solutionrelative:wcfempresa1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\wcfempresa2\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|solutionrelative:wcfempresa2\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F9B4D7-EE4E-4AAE-9A1C-3C119D65A95F}|DemoWEB_Transferencias\\DemoWEB_Transferencias.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\demoweb_transferencias\\webtransaccioneswcf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F9B4D7-EE4E-4AAE-9A1C-3C119D65A95F}|DemoWEB_Transferencias\\DemoWEB_Transferencias.csproj|solutionrelative:demoweb_transferencias\\webtransaccioneswcf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F9B4D7-EE4E-4AAE-9A1C-3C119D65A95F}|DemoWEB_Transferencias\\DemoWEB_Transferencias.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\demoweb_transferencias\\webtransaccioneswcf.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F9B4D7-EE4E-4AAE-9A1C-3C119D65A95F}|DemoWEB_Transferencias\\DemoWEB_Transferencias.csproj|solutionrelative:demoweb_transferencias\\webtransaccioneswcf.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\wcfempresa2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DEE21132-E7AA-43E5-A890-3AEE963271F7}|WCFEmpresa2\\WCFEmpresa2.csproj|solutionrelative:wcfempresa2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\wcfempresa1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|solutionrelative:wcfempresa1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion09\\demowcftransaccional\\wcfempresa1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBCE2532-16BD-4B0C-AAA1-EDA827405F39}|WCFEmpresa1\\WCFEmpresa1.csproj|solutionrelative:wcfempresa1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebTransaccionesWCF.aspx.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\DemoWEB_Transferencias\\WebTransaccionesWCF.aspx.cs",
+              "RelativeDocumentMoniker": "DemoWEB_Transferencias\\WebTransaccionesWCF.aspx.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\DemoWEB_Transferencias\\WebTransaccionesWCF.aspx.cs",
+              "RelativeToolTip": "DemoWEB_Transferencias\\WebTransaccionesWCF.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:37:46.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebTransaccionesWCF.aspx",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\DemoWEB_Transferencias\\WebTransaccionesWCF.aspx",
+              "RelativeDocumentMoniker": "DemoWEB_Transferencias\\WebTransaccionesWCF.aspx",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\DemoWEB_Transferencias\\WebTransaccionesWCF.aspx",
+              "RelativeToolTip": "DemoWEB_Transferencias\\WebTransaccionesWCF.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T17:20:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\App.config",
+              "RelativeDocumentMoniker": "WCFEmpresa2\\App.config",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\App.config",
+              "RelativeToolTip": "WCFEmpresa2\\App.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T17:13:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\Service1.cs",
+              "RelativeDocumentMoniker": "WCFEmpresa2\\Service1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\Service1.cs",
+              "RelativeToolTip": "WCFEmpresa2\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:08:58.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\IService1.cs",
+              "RelativeDocumentMoniker": "WCFEmpresa2\\IService1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa2\\IService1.cs",
+              "RelativeToolTip": "WCFEmpresa2\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:57:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\App.config",
+              "RelativeDocumentMoniker": "WCFEmpresa1\\App.config",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\App.config",
+              "RelativeToolTip": "WCFEmpresa1\\App.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T06:04:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\Service1.cs",
+              "RelativeDocumentMoniker": "WCFEmpresa1\\Service1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\Service1.cs",
+              "RelativeToolTip": "WCFEmpresa1\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:51:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\IService1.cs",
+              "RelativeDocumentMoniker": "WCFEmpresa1\\IService1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion09\\DemoWCFTransaccional\\WCFEmpresa1\\IService1.cs",
+              "RelativeToolTip": "WCFEmpresa1\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:39:34.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

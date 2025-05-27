@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Empresa1ModelStoreContainer" CdmEntityContainer="Empresa1Entities">
+    <EntitySetMapping Name="SaldoCliente">
+      <EntityTypeMapping TypeName="Empresa1Model.SaldoCliente">
+        <MappingFragment StoreEntitySet="SaldoCliente">
+          <ScalarProperty Name="Cliente" ColumnName="Cliente" />
+          <ScalarProperty Name="Saldo" ColumnName="Saldo" />
+          <ScalarProperty Name="FecUltTransaccion" ColumnName="FecUltTransaccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_RestarSaldoCliente" FunctionName="Empresa1Model.Store.usp_RestarSaldoCliente" />
+  </EntityContainerMapping>
+</Mapping>

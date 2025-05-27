@@ -1,0 +1,12 @@
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\WCFEmpresa2.dll.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\WCFEmpresa2.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\WCFEmpresa2.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\EntityFramework.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\EntityFramework.SqlServer.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\EntityFramework.xml
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\bin\Debug\EntityFramework.SqlServer.xml
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\obj\Debug\WCFEmpresa2.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\obj\Debug\WCFEmpresa2.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\obj\Debug\WCFEmpre.6318F572.Up2Date
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\obj\Debug\WCFEmpresa2.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion09\DemoWCFTransaccional\WCFEmpresa2\obj\Debug\WCFEmpresa2.pdb
