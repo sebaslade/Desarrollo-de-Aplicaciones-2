@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CalcularMulta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strNumPlaca" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularMultaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalcularMultaResult" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AutoPropietario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strNumPlaca" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AutoPropietarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AutoPropietarioResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PapeletasImpagas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strNumPlaca" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PapeletasImpagasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PapeletasImpagasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CalcularMultaSoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularMulta" />
+  </wsdl:message>
+  <wsdl:message name="CalcularMultaSoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularMultaResponse" />
+  </wsdl:message>
+  <wsdl:message name="AutoPropietarioSoapIn">
+    <wsdl:part name="parameters" element="tns:AutoPropietario" />
+  </wsdl:message>
+  <wsdl:message name="AutoPropietarioSoapOut">
+    <wsdl:part name="parameters" element="tns:AutoPropietarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="PapeletasImpagasSoapIn">
+    <wsdl:part name="parameters" element="tns:PapeletasImpagas" />
+  </wsdl:message>
+  <wsdl:message name="PapeletasImpagasSoapOut">
+    <wsdl:part name="parameters" element="tns:PapeletasImpagasResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_AutoSoap">
+    <wsdl:operation name="CalcularMulta">
+      <wsdl:input message="tns:CalcularMultaSoapIn" />
+      <wsdl:output message="tns:CalcularMultaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AutoPropietario">
+      <wsdl:input message="tns:AutoPropietarioSoapIn" />
+      <wsdl:output message="tns:AutoPropietarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PapeletasImpagas">
+      <wsdl:input message="tns:PapeletasImpagasSoapIn" />
+      <wsdl:output message="tns:PapeletasImpagasSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_AutoSoap" type="tns:WS_AutoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalcularMulta">
+      <soap:operation soapAction="http://tempuri.org/CalcularMulta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoPropietario">
+      <soap:operation soapAction="http://tempuri.org/AutoPropietario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PapeletasImpagas">
+      <soap:operation soapAction="http://tempuri.org/PapeletasImpagas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_AutoSoap12" type="tns:WS_AutoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalcularMulta">
+      <soap12:operation soapAction="http://tempuri.org/CalcularMulta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoPropietario">
+      <soap12:operation soapAction="http://tempuri.org/AutoPropietario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PapeletasImpagas">
+      <soap12:operation soapAction="http://tempuri.org/PapeletasImpagas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_Auto">
+    <wsdl:port name="WS_AutoSoap" binding="tns:WS_AutoSoap">
+      <soap:address location="https://localhost:44342/WS_Auto.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_AutoSoap12" binding="tns:WS_AutoSoap12">
+      <soap12:address location="https://localhost:44342/WS_Auto.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
