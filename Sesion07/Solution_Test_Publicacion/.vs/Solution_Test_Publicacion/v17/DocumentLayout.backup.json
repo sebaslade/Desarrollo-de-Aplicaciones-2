@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion07\\Solution_Test_Publicacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59CA9D-33DA-422D-B083-8E731A17F5C1}|Cliente_WEB_Ventas\\Cliente_WEB_Ventas.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion07\\solution_test_publicacion\\cliente_web_ventas\\weblistarvendedor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59CA9D-33DA-422D-B083-8E731A17F5C1}|Cliente_WEB_Ventas\\Cliente_WEB_Ventas.csproj|solutionrelative:cliente_web_ventas\\weblistarvendedor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59CA9D-33DA-422D-B083-8E731A17F5C1}|Cliente_WEB_Ventas\\Cliente_WEB_Ventas.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion07\\solution_test_publicacion\\cliente_web_ventas\\weblistarvendedor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F59CA9D-33DA-422D-B083-8E731A17F5C1}|Cliente_WEB_Ventas\\Cliente_WEB_Ventas.csproj|solutionrelative:cliente_web_ventas\\weblistarvendedor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebListarVendedor.aspx.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion07\\Solution_Test_Publicacion\\Cliente_WEB_Ventas\\WebListarVendedor.aspx.cs",
+              "RelativeDocumentMoniker": "Cliente_WEB_Ventas\\WebListarVendedor.aspx.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion07\\Solution_Test_Publicacion\\Cliente_WEB_Ventas\\WebListarVendedor.aspx.cs",
+              "RelativeToolTip": "Cliente_WEB_Ventas\\WebListarVendedor.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:58:53.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebListarVendedor.aspx",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion07\\Solution_Test_Publicacion\\Cliente_WEB_Ventas\\WebListarVendedor.aspx",
+              "RelativeDocumentMoniker": "Cliente_WEB_Ventas\\WebListarVendedor.aspx",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion07\\Solution_Test_Publicacion\\Cliente_WEB_Ventas\\WebListarVendedor.aspx",
+              "RelativeToolTip": "Cliente_WEB_Ventas\\WebListarVendedor.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-31T06:56:32.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

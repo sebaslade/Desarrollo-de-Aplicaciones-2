@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="ServicioVendedor" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WCF_Ventas" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicioVendedor_ConsultarVendedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarVendedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ConsultarVendedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarVendedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ListarVendedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarVendedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ListarVendedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarVendedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_InsertarVendedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarVendedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_InsertarVendedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarVendedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ActualizarVendedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarVendedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ActualizarVendedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarVendedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_EliminarVendedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarVendedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_EliminarVendedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarVendedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ListarSupervisores_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSupervisores" />
+  </wsdl:message>
+  <wsdl:message name="IServicioVendedor_ListarSupervisores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSupervisoresResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicioVendedor">
+    <wsdl:operation name="ConsultarVendedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/ConsultarVendedor" message="tns:IServicioVendedor_ConsultarVendedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/ConsultarVendedorResponse" message="tns:IServicioVendedor_ConsultarVendedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarVendedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/ListarVendedor" message="tns:IServicioVendedor_ListarVendedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/ListarVendedorResponse" message="tns:IServicioVendedor_ListarVendedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarVendedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/InsertarVendedor" message="tns:IServicioVendedor_InsertarVendedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/InsertarVendedorResponse" message="tns:IServicioVendedor_InsertarVendedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVendedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/ActualizarVendedor" message="tns:IServicioVendedor_ActualizarVendedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/ActualizarVendedorResponse" message="tns:IServicioVendedor_ActualizarVendedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarVendedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/EliminarVendedor" message="tns:IServicioVendedor_EliminarVendedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/EliminarVendedorResponse" message="tns:IServicioVendedor_EliminarVendedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarSupervisores">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioVendedor/ListarSupervisores" message="tns:IServicioVendedor_ListarSupervisores_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioVendedor/ListarSupervisoresResponse" message="tns:IServicioVendedor_ListarSupervisores_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicioVendedor" type="tns:IServicioVendedor">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultarVendedor">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/ConsultarVendedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVendedor">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/ListarVendedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarVendedor">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/InsertarVendedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVendedor">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/ActualizarVendedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarVendedor">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/EliminarVendedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarSupervisores">
+      <soap:operation soapAction="http://tempuri.org/IServicioVendedor/ListarSupervisores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioVendedor">
+    <wsdl:port name="BasicHttpBinding_IServicioVendedor" binding="tns:BasicHttpBinding_IServicioVendedor">
+      <soap:address location="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

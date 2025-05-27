@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8e13c65a-e54e-45d9-b8ae-1dc21edbc437" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://DESKTOP-L8LJ9P3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WCF_Ventas.xsd" MetadataType="Schema" ID="4931e7ed-f115-48cc-82c2-0d6d5e53dbc3" SourceId="1" SourceUrl="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicioVendedor.wsdl" MetadataType="Wsdl" ID="e3dc0ed3-99ed-47fc-92eb-10c148c516e1" SourceId="1" SourceUrl="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?wsdl" />
+    <MetadataFile FileName="WCF_Ventas1.xsd" MetadataType="Schema" ID="b3986308-4ed4-4df5-912a-10c4f7e60040" SourceId="1" SourceUrl="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd0" />
+    <MetadataFile FileName="WCF_Ventas2.xsd" MetadataType="Schema" ID="958443a5-7869-4569-aec0-bf6a2477e88e" SourceId="1" SourceUrl="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?xsd=xsd1" />
+    <MetadataFile FileName="WCF_Ventas.disco" MetadataType="Disco" ID="30f3106b-f332-49d9-8fdd-36953c3b3fb2" SourceId="1" SourceUrl="http://desktop-l8lj9p3/wcf_ventas/WCF_Ventas.ServicioVendedor.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
