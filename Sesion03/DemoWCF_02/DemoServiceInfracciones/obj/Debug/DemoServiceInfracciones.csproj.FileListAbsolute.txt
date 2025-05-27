@@ -1,0 +1,14 @@
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.dll.config
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.dll
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.pdb
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.csproj.AssemblyReference.cache
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.csproj.CoreCompileInputs.cache
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.dll
+C:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.dll.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\bin\Debug\DemoServiceInfracciones.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion03\DemoWCF_02\DemoServiceInfracciones\obj\Debug\DemoServiceInfracciones.pdb

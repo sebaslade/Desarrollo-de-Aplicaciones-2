@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9124B136-B1B0-4596-9547-30629CA4B3A3}|WebTestWCF_Infracciones\\WebTestWCF_Infracciones.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion03\\demowcf_02\\webtestwcf_infracciones\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124B136-B1B0-4596-9547-30629CA4B3A3}|WebTestWCF_Infracciones\\WebTestWCF_Infracciones.csproj|solutionrelative:webtestwcf_infracciones\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124B136-B1B0-4596-9547-30629CA4B3A3}|WebTestWCF_Infracciones\\WebTestWCF_Infracciones.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion03\\demowcf_02\\webtestwcf_infracciones\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9124B136-B1B0-4596-9547-30629CA4B3A3}|WebTestWCF_Infracciones\\WebTestWCF_Infracciones.csproj|solutionrelative:webtestwcf_infracciones\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\demoserviceinfracciones\\conexionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|solutionrelative:demoserviceinfracciones\\conexionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|f:\\isil\\5_ciclo\\daplicaciones_2\\sesion03\\demowcf_02\\demoserviceinfracciones\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|solutionrelative:demoserviceinfracciones\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\demoserviceinfracciones\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC90A12-EF57-44B3-B801-263580F7ECA9}|DemoServiceInfracciones\\DemoServiceInfracciones.csproj|solutionrelative:demoserviceinfracciones\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\WebTestWCF_Infracciones\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebTestWCF_Infracciones\\WebForm1.aspx.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\WebTestWCF_Infracciones\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebTestWCF_Infracciones\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:45:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\WebTestWCF_Infracciones\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebTestWCF_Infracciones\\WebForm1.aspx",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\WebTestWCF_Infracciones\\WebForm1.aspx",
+              "RelativeToolTip": "WebTestWCF_Infracciones\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T00:48:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionADO.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\ConexionADO.cs",
+              "RelativeDocumentMoniker": "DemoServiceInfracciones\\ConexionADO.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\ConexionADO.cs",
+              "RelativeToolTip": "DemoServiceInfracciones\\ConexionADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:38:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\Service1.cs",
+              "RelativeDocumentMoniker": "DemoServiceInfracciones\\Service1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\Service1.cs",
+              "RelativeToolTip": "DemoServiceInfracciones\\Service1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:30:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\IService1.cs",
+              "RelativeDocumentMoniker": "DemoServiceInfracciones\\IService1.cs",
+              "ToolTip": "F:\\Isil\\5_CICLO\\DAplicaciones_2\\Sesion03\\DemoWCF_02\\DemoServiceInfracciones\\IService1.cs",
+              "RelativeToolTip": "DemoServiceInfracciones\\IService1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:28:34.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 441,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
