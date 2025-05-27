@@ -1,0 +1,10 @@
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\bin\Debug\TestWindow1.exe.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\bin\Debug\TestWindow1.exe
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\bin\Debug\TestWindow1.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindows1.Form1.resources
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.Properties.Resources.resources
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.csproj.GenerateResource.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.exe
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\TestWindow1\obj\Debug\TestWindow1.pdb

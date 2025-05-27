@@ -1,0 +1,7 @@
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\bin\Debug\WCFSeguro.dll.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\bin\Debug\WCFSeguro.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\bin\Debug\WCFSeguro.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\obj\Debug\WCFSeguro.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\obj\Debug\WCFSeguro.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\obj\Debug\WCFSeguro.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion10\SolucionWCF_Seguro\WCFSeguro\obj\Debug\WCFSeguro.pdb

@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WCFPromedios">
+    <file relUrl="bin/WCFSeguro.dll" publishTime="11/16/2024 14:20:47" />
+    <file relUrl="bin/WCFSeguro.dll.config" publishTime="11/16/2024 14:20:14" />
+    <file relUrl="bin/WCFSeguro.pdb" publishTime="11/16/2024 14:20:47" />
+    <file relUrl="Web.config" publishTime="11/16/2024 14:20:14" />
+    <file relUrl="WCFSeguro.Service1.svc" publishTime="11/16/2024 14:27:51" />
+  </publishTarget>
+</publishData>
