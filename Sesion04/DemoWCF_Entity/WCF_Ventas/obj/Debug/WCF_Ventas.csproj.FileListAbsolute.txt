@@ -1,0 +1,12 @@
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.dll.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.SqlServer.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.xml
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.SqlServer.xml
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csproj.Up2Date
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.pdb

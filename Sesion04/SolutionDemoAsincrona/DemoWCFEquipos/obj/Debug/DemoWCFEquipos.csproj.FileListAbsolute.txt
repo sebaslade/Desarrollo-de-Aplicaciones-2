@@ -1,0 +1,7 @@
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\bin\Debug\DemoWCFEquipos.dll.config
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\bin\Debug\DemoWCFEquipos.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\bin\Debug\DemoWCFEquipos.pdb
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\obj\Debug\DemoWCFEquipos.csproj.AssemblyReference.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\obj\Debug\DemoWCFEquipos.csproj.CoreCompileInputs.cache
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\obj\Debug\DemoWCFEquipos.dll
+F:\Isil\5_CICLO\DAplicaciones_2\Sesion04\SolutionDemoAsincrona\DemoWCFEquipos\obj\Debug\DemoWCFEquipos.pdb
